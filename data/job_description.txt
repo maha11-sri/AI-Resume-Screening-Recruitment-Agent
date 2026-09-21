@@ -1,0 +1,22 @@
+Job Title: Senior Java Backend Developer
+
+Job Summary:
+We are seeking an experienced Java Backend Developer to build scalable enterprise web applications. The ideal candidate will have strong expertise in Java, Spring Boot framework, microservices, and REST API development. You should be proficient in relational databases such as SQL and MySQL, and version control using Git. Knowledge of cloud technologies like AWS, Docker, and containerization is a plus.
+
+Key Responsibilities:
+- Design, develop, and deploy high-performance backend microservices using Java and Spring Boot.
+- Create secure, well-documented REST APIs for web and mobile clients.
+- Work closely with relational databases like SQL, MySQL, and PostgreSQL for efficient schema design and query optimization.
+- Use Git and GitHub for team collaboration and version control.
+- Participate in code reviews, continuous integration (CI/CD), and software architecture discussions.
+
+Required Technical Skills:
+- Java
+- Spring Boot
+- REST API
+- SQL / MySQL
+- Git / GitHub
+- Data Structures and Algorithms
+
+Nice to Have:
+- Docker, Kubernetes, AWS, Microservices architecture.
